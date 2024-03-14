@@ -1,0 +1,28 @@
+{
+  "name": "code-sbransyori-flappy-bird",
+  "version": "1.0.1",
+  "description": "Made by Sbransyori find me in in github https://github.com/sbransyori enjoy your game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "sbransyori",
+    "demo",
+    "project"
+  ],
+  "author": "sbransyori",
+  "homepage": "https://github.com/sbransyori/code-sbransyori-flappy-bird",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbransyori/code-sbransyori-flappy-bird",
+    "license": "ISC"
+  },
+  "dependencies": {
+    "code-ridwan-pomodoro": "^1.0.0",
+    "code-sbransyori": "^1.0.5",
+    "code-sbransyori-to-do-list": "^1.0.5",
+    "code-timer-tumpah": "^1.0.0"
+  }
+}
